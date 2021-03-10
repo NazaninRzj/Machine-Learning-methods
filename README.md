@@ -1,2 +1,2 @@
 # Machine-Learning-methods
-Different types of ML algorithms 
+In here I explain different types of ML algorithm.  
